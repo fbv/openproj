@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>openproj</name>
+            <source-roots>
+                <root id="src.src.dir"/>
+                <root id="src2.dir" name="openproj_contrib"/>
+                <root id="src.openproj_build.dir"/>
+                <root id="src3.dir" name="openproj_core"/>
+                <root id="src4.dir" name="openproj_exchange"/>
+                <root id="src5.dir" name="openproj_report"/>
+                <root id="src6.dir" name="openproj_ui"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.test.dir"/>
+            </test-roots>
+        </data>
+    </configuration>
+</project>
